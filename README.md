@@ -36,3 +36,6 @@ Credit_History - credit history meets guidelines yes or no
 Property_Area - Urban/ Semi Urban/ Rural
 
 Loan_Status - Loan approved (Y/N) this is the target variable
+
+
+DataSet URL : <a href='https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset'>LINK</a>
