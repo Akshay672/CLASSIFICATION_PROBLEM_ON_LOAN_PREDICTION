@@ -10,6 +10,8 @@ A study of Clustering problem on a small dataset based on Loan Prediction. Using
 ## About this Dataset:
 The Loan Prediction Dataset consists of 615 records and 13 columns. This dataset was taken from Kaggle.
 
+DataSet URL : <a href='https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset'>LINK</a>
+
 ## Column Description:
 Loan_ID - Unique Loan ID
 
@@ -38,4 +40,11 @@ Property_Area - Urban/ Semi Urban/ Rural
 Loan_Status - Loan approved (Y/N) this is the target variable
 
 
-DataSet URL : <a href='https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset'>LINK</a>
+### Models with GridSearchCV:
+
+####  1. KNeighborsClassifier
+#### 2. DecisionTreeClassifier
+#### 3. RandomForestClassifier
+#### 4. AdaBoostClassifier
+#### 5. GradientBoostingClassifier
+#### 6. Stack Generalization
